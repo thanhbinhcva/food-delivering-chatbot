@@ -1,3 +1,3 @@
-# Food-ordering chatbot
+# Food-delivering chatbot
 
-chatbot used for ordering food
+chatbot used for delivering food
